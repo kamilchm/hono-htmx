@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "tsx src/index.tsx",
+    "dev": "tsx watch src/index.tsx"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.1.0",
+    "hono": "^3.4.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.1",
+    "tsx": "^3.12.2"
+  }
+}
